@@ -9,11 +9,11 @@
 # Conclusiones 
 
 * Se puede hacer una mayor limpieza del texto con el que se entreno la red.
-* Las redes neuronales recurrentes son costosas de entrenar computacionalmente. Ciertamente falto tiempo de computo (por ejemplo mayor numero de epochs). Se entreno la red durante 6 horas aproximadamente, por lo general un buen entrenamiento de una rnn puede llegar a tardar cientos de horas.
+* Las redes neuronales recurrentes son costosas de entrenar computacionalmente. Ciertamente falto tiempo de computo (por ejemplo mayor número de epochs). Se entrenó la red durante 6 horas aproximadamente, por lo general un buen entrenamiento de una rnn puede llegar a tardar cientos de horas.
 * Los datos con los que fue entrenada la red no estan normalizados!!!!
-* Se puede probar con distintas arquitecturas de red (por ejemplo una red mas profunda)
+* Se puede probar con distintas arquitecturas de red (por ejemplo una red más profunda)
 * Se pueden probar distintas formas de codificar las palabras del texto (bag of words, one-hot vector, etc).
-* Se puede probar prediccion a nivel de carácter en lugar de a nivel palabra.
+* Se puede probar predicción a nivel de carácter en lugar de a nivel palabra.
 
 
 
